@@ -213,3 +213,9 @@ hangman-game/
 - تأثيرات hover سلسة وانتقالات
 - رسائل احترافية منبثقة
 - واجهة نظيفة وبديهية
+
+---
+
+**Built with ❤️ using HTML, CSS, and JavaScript**
+
+**🔗 Live Demo: [https://youssefali2002.github.io/Hangman-Game/](https://youssefali2002.github.io/Hangman-Game/)**
